@@ -1,0 +1,1 @@
+# Python-Program-to-Print-a-Diamond-like-Star-Pattern-32-100
